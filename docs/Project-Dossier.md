@@ -4,7 +4,7 @@
 
 ## Overview
 
-A business process assessment and ERP readiness evaluation for a newly established Saudi General Contracting & Transportation company, conducted to understand current operations, identify process gaps, document business requirements, and define the functional scope and roadmap for a future ERP implementation. The diagnostic phase is complete; the ERP system itself has not yet been selected or implemented.
+A business process assessment and ERP readiness evaluation for my employer, Abeer Adam Abdullah Trading Est., a newly established Saudi general contracting and transportation company, conducted to understand current operations, identify process gaps, document business requirements, and define the functional scope and roadmap for a future ERP implementation. The diagnostic phase is complete; the ERP system itself has not yet been selected or implemented.
 
 ---
 
@@ -28,11 +28,11 @@ The company operates across general residential building construction, governmen
 
 ## My Role
 
-**Title:** Business Systems Analyst
+**Role:** Senior ERP Business Analyst
 **Company:** Abeer Adam Abdullah Trading Est.
-**Duration:** 25 Nov 2025 – Present
+**Period:** 25 Nov 2025 – Present
 
-Represented the business side throughout the assessment: conducting stakeholder interviews, facilitating requirements workshops, documenting AS-IS processes, designing TO-BE workflows, performing gap analysis, preparing the BRD, recommending ERP functional modules, supporting vendor evaluation, and presenting findings to management.
+The assessment covered my own employer, not an external client. I represented the business side throughout: conducting stakeholder interviews, facilitating requirements workshops, documenting AS-IS processes, designing TO-BE workflows, performing gap analysis, preparing the BRD, recommending ERP functional modules, supporting vendor evaluation, and presenting findings to management.
 
 ---
 
@@ -126,7 +126,7 @@ The assessment gave management the operational visibility and documented require
 
 ## Visual Documentation
 
-*Diagrams below reflect only structure confirmed in this dossier's Evidence Mapping.*
+*The diagrams show only structures described in this dossier.*
 
 ### AS-IS State: Current Operating Reality
 
