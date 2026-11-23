@@ -1,7 +1,7 @@
 # ERP Readiness Assessment
 ## Business Requirements Document
 
-**Note on this document:** This is a representative BRD sample, reconstructed at full professional depth from the verified department-level findings, cross-cutting challenges, and phased functional scope recommendation documented in the ERP Readiness Assessment project dossier. It illustrates the format and depth of the actual BRD authored during the assessment. It is not a reproduction of the original file, which is not available for inclusion here. Every finding, requirement, and figure below traces to that dossier; nothing has been added beyond it.
+> **Note on this document:** This is a representative version of the BRD, rebuilt for this portfolio from the project records. The original belongs to the company and is not published. Every requirement, rule, and figure here matches the project dossier; nothing has been added.
 
 ---
 
@@ -10,11 +10,11 @@
 | Field | Value |
 |---|---|
 | Document Title | ERP Readiness Assessment: Business Requirements Document |
-| Prepared By | Omar Ahmed Al-Buriki, Business Systems Analyst |
+| Prepared By | Omar Ahmed Al-Buriki, Senior ERP Business Analyst |
 | Company | Abeer Adam Abdullah Trading Est. |
 | Assessment Period | 25 Nov 2025 to Present |
 | Document Type | Readiness assessment BRD (diagnostic and future-state scope), not an implementation BRD |
-| Document Status | Representative sample, reconstructed from project dossier |
+| Document Status | Representative version (see note above) |
 
 ---
 
@@ -43,7 +43,7 @@ This document is diagnostic in nature. It captures current-state (AS-IS) gaps an
 
 ## 1. Introduction and Purpose
 
-This document defines the business requirements identified through a readiness assessment of a newly established general contracting and transportation company. It translates current-state operational gaps, gathered directly from stakeholders across 8 functional departments, into future-state business requirements that will inform ERP functional scope and vendor evaluation.
+This document defines the business requirements identified through a readiness assessment of Abeer Adam Abdullah Trading Est., a newly established general contracting and transportation company and the author's employer. It translates current-state operational gaps, gathered directly from stakeholders across 8 functional departments, into future-state business requirements that will inform ERP functional scope and vendor evaluation.
 
 ---
 
