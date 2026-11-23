@@ -11,7 +11,7 @@
 |---|---|
 | Document Title | ERP Readiness Assessment: Business Requirements Document |
 | Prepared By | Omar Ahmed Al-Buriki, Senior ERP Business Analyst |
-| Company | Abeer Adam Abdullah Trading Est. |
+| Organization | Newly established construction and transportation company, Saudi Arabia |
 | Assessment Period | 25 Nov 2025 to Present |
 | Document Type | Readiness assessment BRD (diagnostic and future-state scope), not an implementation BRD |
 | Document Status | Representative version (see note above) |
@@ -43,13 +43,13 @@ This document is diagnostic in nature. It captures current-state (AS-IS) gaps an
 
 ## 1. Introduction and Purpose
 
-This document defines the business requirements identified through a readiness assessment of Abeer Adam Abdullah Trading Est., a newly established general contracting and transportation company and the author's employer. It translates current-state operational gaps, gathered directly from stakeholders across 8 functional departments, into future-state business requirements that will inform ERP functional scope and vendor evaluation.
+This document defines the business requirements identified through a readiness assessment of a newly established general contracting and transportation company in Saudi Arabia, the author's employer. It translates current-state operational gaps, gathered directly from stakeholders across 8 functional departments, into future-state business requirements that will inform ERP functional scope and vendor evaluation.
 
 ---
 
 ## 2. Business Context
 
-The company operates across general residential building construction, government building construction, airport construction and infrastructure, specialized transportation, intercity passenger bus transportation, and urban rail passenger transportation. As a newly established organization experiencing rapid growth and preparing to run multiple projects simultaneously, the company had no ERP system in place. Business operations ran on Microsoft Excel, Outlook, WhatsApp, paper-based forms, and shared folders. Management commissioned this assessment to evaluate readiness before committing to an ERP platform.
+The company operates across general residential building construction, government building construction, airport construction and infrastructure, specialized transportation, intercity passenger bus transportation, and urban rail passenger transportation. As a newly established organization experiencing rapid growth and preparing to run multiple projects simultaneously, the company had no ERP system in place. Business operations relied on spreadsheets, email, messaging, paper-based forms, and shared folders. Management commissioned this assessment to evaluate readiness before committing to an ERP platform.
 
 ---
 
