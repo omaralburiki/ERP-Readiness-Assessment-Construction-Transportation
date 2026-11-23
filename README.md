@@ -1,12 +1,12 @@
 # ERP Readiness Assessment: Construction & Transportation
 
-An assessment of whether a new construction and transportation company was ready for an ERP, what it needed from one, and in what order to implement it. The company is my current employer.
+An assessment of whether a new construction and transportation company was ready for an ERP, what it needed from one, and in what order to implement it.
 
-**Abeer Adam Abdullah Trading Est. · Nov 2025 – Present · Role: Senior ERP Business Analyst**
+**Construction and transportation company, Saudi Arabia (my current employer) · Nov 2025 – Present · Role: Senior ERP Business Analyst**
 
 ## Context
 
-The company works in residential, government, and airport construction, and also runs specialized transport, intercity buses, and urban rail passenger services. It is growing fast and preparing to run several projects at the same time, but it had no ERP. Each department worked on its own in Excel, Outlook, WhatsApp, paper forms, and shared folders. The same data was entered more than once, approvals were manual, project costs were hard to see, and management reports came late.
+The company works in residential, government, and airport construction, and also runs specialized transport, intercity buses, and urban rail passenger services. It is growing fast and preparing to run several projects at the same time, and it had not yet adopted an ERP. Departments worked separately, relying on spreadsheets, email, messaging, paper forms, and shared folders. The same data was entered more than once, approvals were manual, project costs were hard to see, and management reports came late.
 
 ## What I did
 
@@ -34,5 +34,5 @@ I ran a similar diagnostic in a different industry in 2019: [Inventory Gap Analy
 
 ## Documents
 
-- [Project Dossier](docs/Project-Dossier.md): department-by-department findings, the phased scope, and diagrams.
+- [Full case study](docs/Project-Dossier.md): department-by-department findings, the phased scope, and diagrams.
 - [BRD](docs/BRD.md): future-state requirements by department, cross-department requirements, and a traceability matrix. This is a representative version; the original belongs to the company.
