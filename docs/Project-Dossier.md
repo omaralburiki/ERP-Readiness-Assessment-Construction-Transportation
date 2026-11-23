@@ -1,145 +1,40 @@
 # ERP Readiness Assessment: Construction & Transportation
 
----
+**Case study** · Construction and transportation company, Saudi Arabia (my current employer) · Nov 2025 – Present · Role: Senior ERP Business Analyst
 
-## Overview
+This is the full write-up behind the [README](../README.md). It covers the company's starting point, what I found in each of the 8 departments, the phased scope I recommended, and where the work stands. The requirements by department are in the [BRD](BRD.md).
 
-A business process assessment and ERP readiness evaluation for my employer, Abeer Adam Abdullah Trading Est., a newly established Saudi general contracting and transportation company, conducted to understand current operations, identify process gaps, document business requirements, and define the functional scope and roadmap for a future ERP implementation. The diagnostic phase is complete; the ERP system itself has not yet been selected or implemented.
+## The company
 
----
+The company is newly established and works in construction (residential, government, and airport and infrastructure projects) and transportation (specialized transport, intercity buses, and urban rail passenger services). It is growing and preparing to run several projects at the same time, and it had not yet adopted an ERP. Departments relied on spreadsheets, email, messaging, paper forms, and shared folders, with no shared business database. Management asked for an assessment before choosing an ERP platform.
 
-## Business Context
+## My role
 
-The company operates across general residential building construction, government building construction, airport construction and infrastructure, specialized transportation, intercity passenger bus transportation, and urban rail passenger transportation. As a newly established organization experiencing rapid growth and preparing to run multiple projects simultaneously, the company had no ERP system in place. Business operations ran on Microsoft Excel, Outlook, WhatsApp, paper-based forms, and shared folders. Management commissioned this assessment to evaluate readiness before committing to an ERP platform.
+The assessment was for my own employer, not an external client. I represented the business side throughout: I interviewed stakeholders, ran requirements workshops, documented the AS-IS processes, designed the TO-BE workflows, performed the gap analysis, wrote the BRD and the functional requirements, recommended the ERP modules and their order, supported vendor evaluation, and presented the findings to management. Management makes the selection decision.
 
----
+## What I found in each department
 
-## Objectives
-
-- Assess ERP implementation readiness across the organization.
-- Understand current business processes as actually practiced.
-- Identify operational gaps and inefficiencies.
-- Gather business requirements directly from stakeholders.
-- Design future-state (TO-BE) business processes.
-- Recommend ERP functional scope, phased by priority.
-- Develop a high-level ERP implementation roadmap.
-
----
-
-## My Role
-
-**Role:** Senior ERP Business Analyst
-**Company:** Abeer Adam Abdullah Trading Est.
-**Period:** 25 Nov 2025 – Present
-
-The assessment covered my own employer, not an external client. I represented the business side throughout: conducting stakeholder interviews, facilitating requirements workshops, documenting AS-IS processes, designing TO-BE workflows, performing gap analysis, preparing the BRD, recommending ERP functional modules, supporting vendor evaluation, and presenting findings to management.
-
----
-
-## Departments Assessed
-
-| Department | Key Current-State Challenges Identified |
+| Department | Current-state findings |
 |---|---|
-| Executive Management | No executive dashboards; limited financial visibility, project profitability tracking, cash flow reporting, or portfolio performance view |
-| Finance | Heavy reliance on Excel, manual journal entries, delayed financial reporting, limited project cost visibility, manual budget tracking |
-| Procurement | Purchase requests via email/paper, no structured approval workflow, limited supplier performance tracking, difficulty monitoring PO status |
-| Projects | Project costs tracked manually, no centralized budget monitoring, limited progress visibility, difficulty comparing budget vs. actual, delayed management reporting |
-| Warehouse & Materials | Manual material requests, limited visibility of availability, delayed receipt/issue recording, difficulty tracking consumption by project, weak procurement-to-project integration |
-| Equipment & Plant | Manual equipment allocation, no centralized maintenance schedule, limited availability visibility, difficulty monitoring utilization across projects |
-| Transportation Operations | Manual vehicle scheduling, fuel consumption tracked separately, independent maintenance records, driver scheduling not integrated with operations |
-| Human Resources | Manual employee records, leave requests outside a centralized system, separate attendance tracking, manual payroll reconciliation |
+| Executive Management | No executive dashboards; limited visibility of finances, project profitability, cash flow, and portfolio performance |
+| Finance | Heavy use of Excel, manual journal entries, late financial reporting, limited project cost visibility, manual budget tracking |
+| Procurement | Purchase requests by email or paper, no structured approval workflow, little supplier performance tracking, hard to follow PO status |
+| Projects | Project costs tracked by hand, no central budget monitoring, limited progress visibility, hard to compare budget with actual, late reporting |
+| Warehouse & Materials | Manual material requests, limited view of availability, late receipt and issue recording, hard to track consumption by project, weak link between procurement and project use |
+| Equipment & Plant | Manual equipment allocation, no central maintenance schedule, limited availability view, hard to track utilization across projects |
+| Transportation Operations | Manual vehicle scheduling, fuel tracked separately, separate maintenance records, driver scheduling not linked to operations |
+| Human Resources | Manual employee records, leave requests outside a central system, separate attendance tracking, manual payroll reconciliation |
 
----
-
-## Assessment Activities
-
-- Stakeholder Interviews
-- Business Process Mapping
-- AS-IS Process Documentation
-- TO-BE Process Design
-- Gap Analysis
-- Business Requirements Gathering
-- Functional Requirements Documentation
-- ERP Readiness Assessment
-- ERP Scope Definition
-- ERP Implementation Roadmap (high-level)
-
----
-
-## Current Systems (AS-IS)
-
-No ERP solution existed. Business operations relied entirely on Microsoft Excel, Microsoft Outlook, WhatsApp, paper-based forms, and shared folders, with departments operating independently and no centralized business database.
-
----
-
-## Key Business Challenges Identified
-
-- Departments operate independently with no centralized business database.
-- Duplicate data entry across departments.
-- Manual approval processes throughout.
-- Limited project cost visibility.
-- Weak integration between procurement and project material usage.
-- Delayed management reporting.
-- Limited operational dashboards.
-- Inconsistent business processes across functions.
-- Heavy dependency on spreadsheets for core operations.
-
----
-
-## Recommended ERP Functional Scope (Phased)
-
-**Phase 1:** Finance, Procurement, Projects, Material Management, Document Management, Approval Workflows.
-
-**Phase 2:** Human Resources, Payroll, Equipment Maintenance, Fleet Management.
-
-**Phase 3:** Executive Dashboards, Business Intelligence, Mobile Access, Vendor Portal.
-
-The phasing reflects prioritizing core financial, procurement, and project cost control first, with people/asset management and executive-level analytics following in later phases.
-
----
-
-## Deliverables
-
-- ERP Readiness Assessment Report
-- Business Requirements Document (BRD)
-- Functional Requirements Specification
-- AS-IS Process Maps
-- TO-BE Process Maps
-- Gap Analysis Report
-- Stakeholder Analysis
-- ERP Functional Scope Recommendation
-- High-Level ERP Implementation Roadmap
-
----
-
-## Current Status
-
-The readiness assessment and diagnostic phase is **complete**, with all deliverables above produced and presented to management. **The ERP system itself has not yet been selected, configured, or implemented.** Vendor evaluation support is part of the ongoing scope of this role, but no vendor has been confirmed as selected as of this writing. This project should be read as a completed diagnostic engagement feeding into a not-yet-started implementation, not as a completed ERP implementation.
-
----
-
-## Anticipated Business Impact
-
-The assessment gave management the operational visibility and documented requirements needed to make informed ERP selection and implementation decisions, replacing ad hoc, spreadsheet-driven operations across finance, procurement, project cost tracking, materials, equipment, transportation, and HR with a phased, prioritized path to a centralized system. No implementation-stage outcomes exist yet, since the system itself has not been built or deployed.
-
----
-
-## Visual Documentation
-
-*The diagrams show only structures described in this dossier.*
-
-### AS-IS State: Current Operating Reality
+Across departments the same issues kept appearing: data entered more than once, manual approvals everywhere, limited project cost visibility, a weak link between purchasing and project material use, late management reporting, few operational dashboards, processes that differed from one function to another, and a heavy dependence on spreadsheets.
 
 ```mermaid
 flowchart TD
-    A[8 Departments Operating Independently] --> B[Excel / Outlook / WhatsApp / Paper Forms]
+    A[8 Departments Operating Independently] --> B[Spreadsheets / Email / Messaging / Paper Forms]
     B --> C[No Centralized Database]
     C --> D[Duplicate Data Entry]
     C --> E[Manual Approvals]
     C --> F[Delayed Management Reporting]
 ```
-
-### Stakeholder Map: Departments Assessed
 
 ```mermaid
 flowchart TD
@@ -154,7 +49,15 @@ flowchart TD
     Center --- HR[Human Resources]
 ```
 
-### Recommended ERP Functional Scope: Phased
+## Recommended scope
+
+I recommended implementing the ERP in three phases. Finance, procurement, and project cost control come first, because that is where the gaps were sharpest. People and asset management follow, and executive analytics come last.
+
+| Phase | Areas |
+|---|---|
+| 1 | Finance, Procurement, Projects, Material Management, Document Management, Approval Workflows |
+| 2 | Human Resources, Payroll, Equipment Maintenance, Fleet Management |
+| 3 | Executive Dashboards, Business Intelligence, Mobile Access, Vendor Portal |
 
 ```mermaid
 flowchart LR
@@ -180,29 +83,22 @@ flowchart LR
     Phase1 --> Phase2 --> Phase3
 ```
 
-### Before vs. Recommended Capability (By Department, Sample)
+A sample of how findings turned into recommended capabilities:
 
-| Department | Current Challenge (AS-IS) | Recommended Capability (TO-BE) |
+| Department | Current state | Recommended capability |
 |---|---|---|
-| Finance | Manual journal entries, delayed reporting | Centralized financial module, real-time reporting |
-| Procurement | Email/paper purchase requests, no approval workflow | Structured approval workflow, PO status tracking |
-| Projects | Manual cost tracking, no budget-vs-actual visibility | Centralized project budget monitoring |
-| Warehouse & Materials | Manual requests, delayed receipt/issue recording | Real-time material tracking by project |
-| Equipment & Plant | Manual allocation, no maintenance schedule | Centralized equipment maintenance and utilization tracking |
+| Finance | Manual journal entries, late reporting | Central financial module with real-time reporting |
+| Procurement | Email and paper requests, no approval workflow | Structured approval workflow, PO status tracking |
+| Projects | Manual cost tracking, no budget-versus-actual view | Central project budget monitoring |
+| Warehouse & Materials | Manual requests, late receipt and issue recording | Real-time material tracking by project |
+| Equipment & Plant | Manual allocation, no maintenance schedule | Central maintenance and utilization tracking |
 
-*Full department-level detail is available in the Departments Assessed section above; this table samples the pattern rather than repeating all 8 in visual form.*
+## Deliverables
 
----
+ERP readiness assessment report, BRD, functional requirements specification, AS-IS and TO-BE process maps, gap analysis report, stakeholder analysis, phased ERP scope recommendation, and a high-level implementation roadmap.
 
-## Skills Demonstrated
+## Where it stands
 
-- ERP Readiness Assessment
-- Stakeholder Interviewing and Requirements Workshops
-- AS-IS / TO-BE Process Documentation
-- Gap Analysis (cross-departmental, 8 functional areas)
-- Business Requirements Documentation (BRD)
-- Functional Requirements Specification
-- ERP Functional Scope Definition and Phased Roadmap Planning
-- Vendor Evaluation Support
-- Executive Presentation of Findings
+The assessment is complete and the deliverables have been presented to management. No ERP has been selected, configured, or implemented yet, and I am supporting vendor evaluation. This project shows readiness and requirements work, not a finished implementation.
 
+A similar diagnostic I ran in another industry in 2019 is the [Inventory Gap Analysis & ERP Readiness](https://github.com/omaralburiki/Inventory-Gap-Analysis-ERP-Readiness).
