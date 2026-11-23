@@ -1,90 +1,38 @@
 # ERP Readiness Assessment: Construction & Transportation
 
-Business process assessment and ERP readiness evaluation for a newly established general contracting and transportation company, across 8 functional departments.
+An assessment of whether a new construction and transportation company was ready for an ERP, what it needed from one, and in what order to implement it. The company is my current employer.
 
----
+**Abeer Adam Abdullah Trading Est. · Nov 2025 – Present · Role: Senior ERP Business Analyst**
 
-## Overview
+## Context
 
-A business process assessment and ERP readiness evaluation for a newly established Saudi general contracting and transportation company, conducted to understand current operations, identify process gaps, document business requirements, and define the functional scope and roadmap for a future ERP implementation. The diagnostic phase is complete; the ERP system itself has not yet been selected or implemented.
+The company works in residential, government, and airport construction, and also runs specialized transport, intercity buses, and urban rail passenger services. It is growing fast and preparing to run several projects at the same time, but it had no ERP. Each department worked on its own in Excel, Outlook, WhatsApp, paper forms, and shared folders. The same data was entered more than once, approvals were manual, project costs were hard to see, and management reports came late.
 
----
+## What I did
 
-## Business Context
+I interviewed stakeholders and ran requirements workshops in 8 departments: Executive Management, Finance, Procurement, Projects, Warehouse & Materials, Equipment & Plant, Transportation Operations, and Human Resources. For each one I documented the current process, designed the future process, and recorded the gaps between them.
 
-The company operates across general residential building construction, government building construction, airport construction and infrastructure, specialized transportation, intercity passenger bus transportation, and urban rail passenger transportation. As a newly established, rapidly growing organization preparing to run multiple projects simultaneously, the company had no ERP system in place. Operations ran on Excel, Outlook, WhatsApp, paper-based forms, and shared folders.
+From that work I produced the readiness assessment report, the BRD, the functional requirements specification, AS-IS and TO-BE process maps, the gap analysis report, a stakeholder analysis, the phased ERP scope, and a high-level implementation roadmap. I presented the results to management, and I am now supporting vendor evaluation. Management makes the selection decision.
 
----
+## Recommended scope
 
-## Problem Statement
+| Phase | Areas |
+|---|---|
+| 1 | Finance, Procurement, Projects, Material Management, Document Management, Approval Workflows |
+| 2 | Human Resources, Payroll, Equipment Maintenance, Fleet Management |
+| 3 | Executive Dashboards, Business Intelligence, Mobile Access, Vendor Portal |
 
-Departments operated independently with no centralized business database, resulting in duplicate data entry, manual approval processes, limited project cost visibility, weak integration between procurement and project material usage, and delayed management reporting.
+Phase 1 covers finance, purchasing, and project cost control, because that is where the gaps were sharpest. People and asset management follow, and executive analytics come last.
 
----
+## Status
 
-## Objectives
+The assessment is complete. No ERP has been selected or implemented yet, so this project shows readiness and requirements work, not a finished implementation.
 
-- Assess ERP implementation readiness across the organization.
-- Understand current business processes as actually practiced.
-- Identify operational gaps and inefficiencies.
-- Gather business requirements directly from stakeholders.
-- Recommend ERP functional scope, phased by priority.
-- Develop a high-level ERP implementation roadmap.
+## Related project
 
----
+I ran a similar diagnostic in a different industry in 2019: [Inventory Gap Analysis & ERP Readiness](https://github.com/omaralburiki/Inventory-Gap-Analysis-ERP-Readiness).
 
-## Scope
+## Documents
 
-- 8 functional departments assessed: Executive Management, Finance, Procurement, Projects, Warehouse & Materials, Equipment & Plant, Transportation Operations, Human Resources.
-- Stakeholder interviews, AS-IS/TO-BE process documentation, and gap analysis across all departments.
-
----
-
-## My Role
-
-**Business Systems Analyst** (25 Nov 2025 – Present). Represented the business side throughout the assessment: conducting stakeholder interviews, facilitating requirements workshops, documenting AS-IS processes, designing TO-BE workflows, performing gap analysis, preparing the BRD, recommending ERP functional modules, supporting vendor evaluation, and presenting findings to management.
-
----
-
-## Key Deliverables
-
-- ERP Readiness Assessment Report
-- Business Requirements Document (BRD)
-- Functional Requirements Specification
-- AS-IS and TO-BE Process Maps
-- Gap Analysis Report
-- Phased ERP Functional Scope Recommendation
-- High-Level ERP Implementation Roadmap
-
----
-
-## Business Impact
-
-The assessment gave management the documented, prioritized basis to make informed ERP selection and implementation decisions, replacing ad hoc, spreadsheet-driven operations across finance, procurement, project cost tracking, materials, equipment, transportation, and HR with a phased path toward a centralized system. The ERP system itself has not yet been implemented.
-
----
-
-## Skills Demonstrated
-
-ERP Readiness Assessment · Stakeholder Interviewing · AS-IS/TO-BE Process Documentation · Gap Analysis · Business Requirements Documentation (BRD) · Phased ERP Scope Planning · Vendor Evaluation Support · Executive Presentation
-
----
-
-## Repository Structure
-
-```
-README.md
-docs/Project-Dossier.md
-images/
-diagrams/
-```
-
----
-
-## Full Documentation
-
-The complete project dossier, including department-by-department findings, the phased ERP functional scope, and evidence mapping, is available at:
-
-
----
-
+- [Project Dossier](docs/Project-Dossier.md): department-by-department findings, the phased scope, and diagrams.
+- [BRD](docs/BRD.md): future-state requirements by department, cross-department requirements, and a traceability matrix. This is a representative version; the original belongs to the company.
