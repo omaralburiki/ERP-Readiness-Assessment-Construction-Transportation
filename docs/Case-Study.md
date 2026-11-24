@@ -30,7 +30,7 @@ flowchart TB
         H["Vendor evaluation<br/>support"]
         E --> F --> G --> H
     end
-    D --> E
+    R1 --> R2
     style R1 fill:none,stroke:none
     style R2 fill:none,stroke:none
 ```
