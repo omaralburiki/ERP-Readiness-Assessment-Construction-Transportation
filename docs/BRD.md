@@ -10,7 +10,7 @@
 | Field | Value |
 |---|---|
 | Document Title | ERP Readiness Assessment: Business Requirements Document |
-| Prepared By | Omar Ahmed Al-Buriki, Senior ERP Business Analyst |
+| Prepared By | Omar Ahmed Omar Alburiki, Senior ERP Business Analyst |
 | Organization | Newly established construction and transportation company, Saudi Arabia |
 | Assessment Period | 25 Nov 2025 to Present |
 | Document Type | Readiness assessment BRD (diagnostic and future-state scope), not an implementation BRD |
